@@ -1,0 +1,35 @@
+﻿# Large files
+*.pkl
+*.h5
+*.model
+*.bin
+*.npy
+*.npz
+*.zip
+*.csv
+
+# Directories with large files
+models/
+dataset/
+data/
+Backend/Dataset/
+suspicious_url_detection/data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
